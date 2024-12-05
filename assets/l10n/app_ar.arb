@@ -1,0 +1,21 @@
+{
+  "filter" : "فلتر",
+  "filter_screen" : "صفحة الفلتر",
+  "home" : "الرئيسية",
+  "new_update" : "التحديث الجديد",
+  "there_is_new_version_please_click_update_the_app" : "هناك إصدار جديد، يرجى النقر فوق تحديث التطبيق.",
+  "hi_there" : "مرحبًا بك",
+  "find_the_perfect_job_for_you" : "ابحث عن الوظيفة المثالية لك.",
+  "more" : "مزيد",
+  "the_latest_jobs" : "أحدث الوظائف",
+
+  "language" : "لغة",
+  "english" : "الإنكليزية",
+  "arabic" : "العربية",
+  "countries" : "البلدان",
+  "categories" : "أصناف",
+  "delete" : "مسح",
+  "edit" : "تعديل"
+
+
+}
